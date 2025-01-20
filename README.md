@@ -52,7 +52,18 @@ Welcome to **Vartalaap** 🌟, a Flutter-based communication app designed to rev
 
 ---
 
-##   **Screenshots**
+## Screenshots 📸
+
+Here are some screenshots of the app:
+
+<img src="Splash_screen.png" width="360"/>
+<img src="Signup_screen.png" width="360"/>
+<img src="Login_screen.png" width="360"/>
+<img src="Tool_bar.png" width="360"/>
+<img src="Home2.png" width="360"/>
+<img src="Home3.png" width="360"/>
+<img src="Cart.png" width="360"/>
+
 
 
 
