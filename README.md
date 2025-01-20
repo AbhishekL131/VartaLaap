@@ -59,9 +59,9 @@ Here are some screenshots of the app:
 <img src="Splash_screen.png" width="360"/>
 <img src="Signup_screen.png" width="360"/>
 <img src="Login_Screen.png" width="360"/>
-<img src="Home_scrren.png" width="360"/>
+<img src="Home_Screen.png" width="360"/>
 <img src="Tool_bar.png" width="360"/>
-<img src="Demo_prompt.png" width="360"/>
+<img src="Demo_Prompt.png" width="360"/>
 
 
 
